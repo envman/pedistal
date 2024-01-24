@@ -1,10 +1,9 @@
 ## Setup
 
-Install github Desktop: https://desktop.github.com/
-Download/Clone: https://github.com/envman/pedistal
-Install node.js (LTS): https://nodejs.org/en
-Install dependencies, in a terminal/prompt window cd to kiosk directory and run:
-npm install
+1. Install github Desktop: https://desktop.github.com/
+2. Download/Clone: https://github.com/envman/pedistal
+3. Install node.js (LTS): https://nodejs.org/en
+4. Install dependencies, in a terminal/prompt window cd to kiosk directory and run: npm install
 
 ### Importing data
 - Copy spreadsheet (.xlsl file) into kiosk directory (Where data.xlsx is)
